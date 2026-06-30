@@ -10,10 +10,17 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native/new-app-screen": "0.86.0",
+    "buffer": "^6.0.3",
+    "events": "^3.3.0",
+    "mqtt": "^4.3.7",
+    "process": "^0.11.10",
     "react": "19.2.3",
     "react-native": "0.86.0",
-    "@react-native/new-app-screen": "0.86.0",
-    "react-native-safe-area-context": "^5.5.2"
+    "react-native-paho-mqtt": "^0.1.1",
+    "react-native-safe-area-context": "^5.5.2",
+    "stream-browserify": "^3.0.0",
+    "url": "^0.11.4"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
